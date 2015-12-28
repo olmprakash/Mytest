@@ -8,7 +8,5 @@ int test()
 {
 printf("hello hello");
 }
-//hello
-//new
-//second
-//comment added
+
+//i am adding new line for first time
